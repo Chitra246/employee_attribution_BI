@@ -12,6 +12,8 @@ This Power BI report analyses **employee attrition patterns** across an organisa
 
 The report is built across **two interactive pages**:
 
+https://github.com/user-attachments/assets/c84e5606-ae30-4ae7-965b-77a718f0d3ed
+
 ### Page 1 — Main Dashboard
 A high-level attrition overview with dynamic filtering and visual breakdowns across key dimensions:
 
